@@ -9,9 +9,9 @@
 --optimize:False
 --emit-entry-point:True
 --output-name:DockerTest
---file-version:1.0.0.0
---version:1.0.0.0
---informational-version:1.0.0
+--file-version:1.1.0.0
+--version:1.1.0.0
+--informational-version:1.1.0
 --target-framework:.NETCoreApp,Version=v1.0
 --reference:C:\Users\DILEEP.PANDIYA01\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll
 --reference:C:\Users\DILEEP.PANDIYA01\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll
